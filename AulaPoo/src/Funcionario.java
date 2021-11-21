@@ -55,7 +55,7 @@ public class Funcionario {
 	public String toString() {
 
 		String descricao = "Funcionario: " + nome + " Trabalhou " + quantidadeDeDiasTrabalhados +" dias"
-				+ " o valor Diario: " + salario;
+				+ " Valor Diario: " + salario;
 		return descricao;
 	}
 
